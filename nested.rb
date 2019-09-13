@@ -148,7 +148,7 @@ def adding_to_dennis
 
 		 programmer_hash[:dennis_ritchie] = {}
 
-		 programmer_hash[:dennis_ritchie][:languages] = "Assembly"
+		 programmer_hash[:dennis_ritchie][:languages] = "s, Assembly"
 
 		 return programmer_hash
 
